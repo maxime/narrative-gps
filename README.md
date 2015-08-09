@@ -12,3 +12,6 @@ As a result, the .snap files contains 524,288 I/Q samples.
 
 The data directory contains a few samples, the times are in UTC.
 
+### Copyright
+
+This repository includes work from the SoftGNSS v3.0 project, Copyright (C) Darius Plausinaitis.
