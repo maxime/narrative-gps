@@ -1,6 +1,8 @@
 # narrative-gps
 An attempt to read the GPS Snapshot files from the Narrative Camera.
 
+*IMPORTANT: This project is NOT completed and currently does NOT work as it is.*
+
 ## .snap files GPS Snapshot file format
 
 The Narrative Camera uses the Cellguide ACLYS GPS Frontend (ref: [CellGuide site](http://www.cell-guide.com) and [Narrative Clip Teardown](https://learn.adafruit.com/narrative-clip-teardown/inside-the-narrative-clip)) and takes a 512ms GPS snapshot every 30 seconds.
